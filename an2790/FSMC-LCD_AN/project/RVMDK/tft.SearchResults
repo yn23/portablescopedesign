@@ -1,0 +1,4 @@
+---- GPIO_PinRemapConfig Matches (3 in 2 files) ----
+Stm32f10x_gpio.c (e:\download\st\app\tft\an2790\fwlib\library\src):* Function Name  : GPIO_PinRemapConfig
+Stm32f10x_gpio.c (e:\download\st\app\tft\an2790\fwlib\library\src):void GPIO_PinRemapConfig(u32 GPIO_Remap, FunctionalState NewState)
+Stm32f10x_gpio.h (e:\download\st\app\tft\an2790\fwlib\library\inc):void GPIO_PinRemapConfig(u32 GPIO_Remap, FunctionalState NewState);
